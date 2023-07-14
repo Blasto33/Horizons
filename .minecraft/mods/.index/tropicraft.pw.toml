@@ -1,0 +1,14 @@
+name = "Tropicraft"
+filename = "Tropicraft-9.6.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/20zpzIT1/versions/NRSdRpIz/Tropicraft-9.6.1.jar"
+hash-format = "sha512"
+hash = "89f1a4d2d0116bc5496bf964959768115e4b1429a0f384f5af62bf6faee617b5bf252c9edd20b1f7db804d95c73f913ce70fbb168e685d230c33c0dc40ca8dd7"
+
+[update]
+[update.modrinth]
+mod-id = "20zpzIT1"
+version = "NRSdRpIz"

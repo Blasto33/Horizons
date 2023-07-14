@@ -1,0 +1,14 @@
+name = "Naturally Charged Creepers"
+filename = "naturallychargedcreepers-1.20.1-3.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/j5LquiGA/versions/G22uj5BB/naturallychargedcreepers-1.20.1-3.2.jar"
+hash-format = "sha512"
+hash = "777285455875747cea7be32d103a5a4df7af04ad1c9584aff87c31ea8a01acbfcc46841932820826efe9b661285f4d5bc36a3ddb587d19efc72f07beff125194"
+
+[update]
+[update.modrinth]
+mod-id = "j5LquiGA"
+version = "G22uj5BB"

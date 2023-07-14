@@ -1,0 +1,14 @@
+name = "Real Camera"
+filename = "realcamera-1.20-forge-0.5.3-beta.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fYYSAh4R/versions/jkMmYoMW/realcamera-1.20-forge-0.5.3-beta.jar"
+hash-format = "sha512"
+hash = "0e3ec7d602953157637f33842c30363bf33bbe2352532d62f438a2c77ce30adba5be8ea3323119a935768593c2f6e01fbe3f9693b8784f8d247bcd46cc1a14a3"
+
+[update]
+[update.modrinth]
+mod-id = "fYYSAh4R"
+version = "jkMmYoMW"

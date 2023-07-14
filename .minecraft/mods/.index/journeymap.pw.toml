@@ -1,0 +1,14 @@
+name = "Journeymap"
+filename = "journeymap-1.20.1-5.9.11-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/kPSDAhiS/journeymap-1.20.1-5.9.11-forge.jar"
+hash-format = "sha512"
+hash = "3625a0ade153ef749bbb9361f76b5ec821af662e2bcc307ce66660efb75f268d228077c1f9361bd55ca4f6b51b83437bb25c59566faad46c07a623a1124e9382"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "kPSDAhiS"

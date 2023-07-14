@@ -1,0 +1,14 @@
+name = "Maintenance Mode"
+filename = "mmode-forge-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/QOkEkSap/versions/17gaKcWU/mmode-forge-1.20-1.1.1.jar"
+hash-format = "sha512"
+hash = "d8f9a7588d1024bb77e0b0f36d3c198f3cf01cfcfd6bf423e513b4bf403e1daa5bbf6e44288ba0975690a97f548950ae3f5fe34f586910769c61d96872cc4786"
+
+[update]
+[update.modrinth]
+mod-id = "QOkEkSap"
+version = "17gaKcWU"

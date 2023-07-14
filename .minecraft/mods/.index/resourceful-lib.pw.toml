@@ -1,0 +1,14 @@
+name = "Resourceful Lib"
+filename = "resourcefullib-forge-1.20.1-2.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/K1JcKyP0/resourcefullib-forge-1.20.1-2.1.2.jar"
+hash-format = "sha512"
+hash = "16bc4449090ced5a4832ed981cb8d9e71002105bd5227aa6fc01cd8614d32db181c7c2c727b88e8af69881b46c518197e670709720143e11418b613b319ed499"
+
+[update]
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "K1JcKyP0"

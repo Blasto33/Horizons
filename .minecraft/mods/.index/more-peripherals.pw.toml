@@ -1,0 +1,14 @@
+name = "More Peripherals"
+filename = "MorePeripherals_1.20.1-1.11.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/7ACsQCnG/versions/R9qX3HVI/MorePeripherals_1.20.1-1.11.jar"
+hash-format = "sha512"
+hash = "6e63e23ebb08bd7d3624bfad2ef54a0d3139d7db9b6687e6e782aaaa19780a81cb160103ae8648070f9b6c53032d118dcd7ea813cbd0667aec947e730b0ce0df"
+
+[update]
+[update.modrinth]
+mod-id = "7ACsQCnG"
+version = "R9qX3HVI"

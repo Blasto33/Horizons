@@ -1,0 +1,14 @@
+name = "Advanced Mining Dimension"
+filename = "mining_dimension-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XRETyQl3/versions/Z0JJEOMS/mining_dimension-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "a6ed2b10f542d1af2651a5bf7bda3fa80c6c33b7ac3a642ecd86909c9c459d49194e13c1493518c4144c5c9649ab1edc8a0636849636e0ee2bb639a8535506b8"
+
+[update]
+[update.modrinth]
+mod-id = "XRETyQl3"
+version = "Z0JJEOMS"

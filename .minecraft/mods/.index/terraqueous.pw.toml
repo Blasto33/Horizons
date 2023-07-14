@@ -1,0 +1,14 @@
+name = "Terraqueous"
+filename = "terraqueous-forge-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RQoWk9iS/versions/aA7pknQq/terraqueous-forge-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "32046a828d8b062dec8fa28ffe4da26ee0ec3550e5a6c7c026abaa6d3f51922fd08eb443eab655cf3f827461404c1173871f5b2c75d5191388c33d096c071014"
+
+[update]
+[update.modrinth]
+mod-id = "RQoWk9iS"
+version = "aA7pknQq"

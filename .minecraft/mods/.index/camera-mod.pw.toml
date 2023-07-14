@@ -1,0 +1,14 @@
+name = "Camera Mod"
+filename = "camera-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/nvrYdxBf/camera-1.20.1-1.0.4.jar"
+hash-format = "sha512"
+hash = "c57a26c1b567bf72e8ba72e4bbd004b063d696cdad5713acca15e046f2dd6760171c018cad0d1ac5499888f8baaa656c046305f3f566c14e7289d0ceaad7de7b"
+
+[update]
+[update.modrinth]
+mod-id = "oiuNWinn"
+version = "nvrYdxBf"

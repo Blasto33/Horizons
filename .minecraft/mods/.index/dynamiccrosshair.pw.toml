@@ -1,0 +1,14 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-7.0.2+1.20-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/GaDrUzLS/dynamiccrosshair-7.0.2%2B1.20-forge.jar"
+hash-format = "sha512"
+hash = "d98fe33ad0bbaafbff2da14eacf30c2175d559b11f9816321f872d50be530f7c331ae0a7d280b566052bcc217cdd6e1c7b65eea7a78cc531c4985f810d750dd9"
+
+[update]
+[update.modrinth]
+mod-id = "ZcR9weSm"
+version = "GaDrUzLS"

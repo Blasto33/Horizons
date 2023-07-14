@@ -1,0 +1,14 @@
+name = "Culinary Construct"
+filename = "culinaryconstruct-forge-5.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/i0hioBIg/versions/VSi7u8GE/culinaryconstruct-forge-5.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "bca365edd715d86010c2365cef16b3fcea9316bafd0bdd0dd89b5fb643e80603dbeaea331cbe40a2e0e014a05d207eb0fd65b2d0408f45ffb18a24e250d1f7b6"
+
+[update]
+[update.modrinth]
+mod-id = "i0hioBIg"
+version = "VSi7u8GE"

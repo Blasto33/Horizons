@@ -1,0 +1,14 @@
+name = "Rechiseled"
+filename = "rechiseled-1.1.1-forge-mc1.20.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/MuUVDVpP/rechiseled-1.1.1-forge-mc1.20.jar"
+hash-format = "sha512"
+hash = "a54cbe6f68f34d25547c0cd0fcbdaf4a15233e4604fa765a1464a2ba8e0adc19fab2211dab29e9e6a2ae11beba39d7330f848ea3e5a542afc74a88157a4a7109"
+
+[update]
+[update.modrinth]
+mod-id = "B0g2vT6l"
+version = "MuUVDVpP"

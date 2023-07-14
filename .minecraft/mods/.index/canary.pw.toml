@@ -1,0 +1,14 @@
+name = "Canary"
+filename = "canary-mc1.20(.1)-0.2.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/qa2H4BS9/versions/Oslo7xK4/canary-mc1.20%28.1%29-0.2.6.jar"
+hash-format = "sha512"
+hash = "bd79b336bd317a0ba37c2df278f978b6421f7302d3acfae329d2c86e273cab3c8eb9f379e6eb2cb019bdfa50920d7c841534dba7bf1c20679263f7a99d35d917"
+
+[update]
+[update.modrinth]
+mod-id = "qa2H4BS9"
+version = "Oslo7xK4"
