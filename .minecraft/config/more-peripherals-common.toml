@@ -17,4 +17,7 @@
 	solarChargeRate = 4
 	#Does Magnetic Turtle uses fuel
 	magnetConsumesFuel = true
+	#Range for Keyboards
+	#Range: 1 ~ 128
+	keyboardRange = 16
 
